@@ -1,2 +1,3 @@
-# agro_data_analysis
-Análise de dados agrícolas com Python
+# Análise de Dados Agrícolas com Python
+
+Projeto demonstrando análise de dados agrícolas usando Python.
